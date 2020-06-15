@@ -24,7 +24,7 @@ pip install pipenv
 Generate a new extension from the template. Press enter at each of the prompts to accept the default value or add the `--no-input` flag:
 
 ```bash
-cookiecutter https://github.com/gclouduniverse/jupyter-extension-cookiecutter -o my_extension
+cookiecutter https://github.com/cbwilkes/jupyter-extension-cookiecutter -o my_extension
 ```
 
 Change to the generated project directory:
