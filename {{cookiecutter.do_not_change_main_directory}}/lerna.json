@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "shared/client/",
+    "{{cookiecutter.project_name}}/"
+  ],
+  "version": "independent"
+}
