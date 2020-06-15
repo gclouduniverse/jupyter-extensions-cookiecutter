@@ -5,7 +5,6 @@ Cloud AI Platform Notebooks JupyterLab extension cookiecutter project for quickl
 ## Prerequisites
 
 * Python 3.5+
-* [pipenv](https://github.com/pypa/pipenv#installation)
 * [NPM](https://nodejs.org/en/) (For local development)
 
 ## Quick Start
@@ -14,6 +13,12 @@ Install [cookiecutter](https://pypi.org/project/cookiecutter/):
 
 ```bash
 pip install cookiecutter
+```
+
+Install [pipenv](https://github.com/pypa/pipenv#installation):
+
+```bash
+pip install pipenv
 ```
 
 Generate a new extension from the template. Press enter at each of the prompts to accept the default value or add the `--no-input` flag:
